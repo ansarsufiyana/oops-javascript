@@ -1,3 +1,4 @@
+"use strict";
 // //what is oops
 // // in object-oriented programming we combine the group of functions to single unit, we call this unit an object.
 // //object oriented programming is way of writing code that allows you to create different objects from a common object .
@@ -26,6 +27,8 @@
 // function getWage(basesalary, overTime, rate){
 //     return basesalary + (overTime * rate);
 // }
+// getWage();
+// console.log(getWage());
 
 // //oop way
 // // in encapsulation implementation we dont have parameters
@@ -57,4 +60,5 @@
 // // polymorphism
 // // is a technique that allows us to get rid of long if else and switch case statments
 // //Refactor ugly switch/case statement
+
 
